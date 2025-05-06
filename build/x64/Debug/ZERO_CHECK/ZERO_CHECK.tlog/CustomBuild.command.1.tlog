@@ -1,0 +1,10 @@
+^E:\GST-DPBF\BUILD\CMAKEFILES\CA9F25478C2A47DE6C240DB463A13703\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/GST-DPBF -BE:/GST-DPBF/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/GST-DPBF/build/DPBF.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

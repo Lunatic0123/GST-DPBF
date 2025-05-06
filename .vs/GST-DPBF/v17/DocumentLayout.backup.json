@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GST-DPBF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\rucgraph\\graph_v_of_v_idealID_DPBF_only_ec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rucgraph\\graph_v_of_v_idealID_DPBF_only_ec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\data\\data6.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\data6.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\rucgraph\\test_cpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rucgraph\\test_cpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\img_1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:img_1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\data\\data5.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\data5.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\data\\data7.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\data7.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted_generate_random_groups_of_vertices.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rucgraph\\graph_hash_of_mixed_weighted_generate_random_groups_of_vertices.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted_read_for_GSTP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rucgraph\\graph_hash_of_mixed_weighted_read_for_GSTP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted_binary_operations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted_binary_operations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted\\two_graphs_operations\\graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rucgraph\\graph_hash_of_mixed_weighted\\two_graphs_operations\\graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\data\\data1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\data1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GST-DPBF\\data\\data0.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\data0.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|CMake \u6982\u8FF0\u9875||{B1CAA5B0-FEB1-4350-8AB9-F895876842F2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\GST-DPBF\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\GST-DPBF\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-01T13:14:14.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "img_1.png",
+              "DocumentMoniker": "E:\\GST-DPBF\\img_1.png",
+              "RelativeDocumentMoniker": "img_1.png",
+              "ToolTip": "E:\\GST-DPBF\\img_1.png",
+              "RelativeToolTip": "img_1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-01T13:14:09.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "data5.csv",
+              "DocumentMoniker": "E:\\GST-DPBF\\data\\data5.csv",
+              "RelativeDocumentMoniker": "data\\data5.csv",
+              "ToolTip": "E:\\GST-DPBF\\data\\data5.csv",
+              "RelativeToolTip": "data\\data5.csv",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-01T11:36:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data6.csv",
+              "DocumentMoniker": "E:\\GST-DPBF\\data\\data6.csv",
+              "RelativeDocumentMoniker": "data\\data6.csv",
+              "ToolTip": "E:\\GST-DPBF\\data\\data6.csv",
+              "RelativeToolTip": "data\\data6.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-01T11:36:38.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "graph_v_of_v_idealID_DPBF_only_ec.h",
+              "DocumentMoniker": "E:\\GST-DPBF\\rucgraph\\graph_v_of_v_idealID_DPBF_only_ec.h",
+              "RelativeDocumentMoniker": "rucgraph\\graph_v_of_v_idealID_DPBF_only_ec.h",
+              "ToolTip": "E:\\GST-DPBF\\rucgraph\\graph_v_of_v_idealID_DPBF_only_ec.h",
+              "RelativeToolTip": "rucgraph\\graph_v_of_v_idealID_DPBF_only_ec.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T09:20:22.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "E:\\GST-DPBF\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "E:\\GST-DPBF\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-01T10:57:53.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "data7.csv",
+              "DocumentMoniker": "E:\\GST-DPBF\\data\\data7.csv",
+              "RelativeDocumentMoniker": "data\\data7.csv",
+              "ToolTip": "E:\\GST-DPBF\\data\\data7.csv",
+              "RelativeToolTip": "data\\data7.csv",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-01T11:36:27.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_cpu.h",
+              "DocumentMoniker": "E:\\GST-DPBF\\rucgraph\\test_cpu.h",
+              "RelativeDocumentMoniker": "rucgraph\\test_cpu.h",
+              "ToolTip": "E:\\GST-DPBF\\rucgraph\\test_cpu.h",
+              "RelativeToolTip": "rucgraph\\test_cpu.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T09:20:25.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "graph_hash_of_mixed_weighted_generate_random_groups_of_vertices.h",
+              "DocumentMoniker": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted_generate_random_groups_of_vertices.h",
+              "RelativeDocumentMoniker": "rucgraph\\graph_hash_of_mixed_weighted_generate_random_groups_of_vertices.h",
+              "ToolTip": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted_generate_random_groups_of_vertices.h",
+              "RelativeToolTip": "rucgraph\\graph_hash_of_mixed_weighted_generate_random_groups_of_vertices.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T11:05:29.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "graph_hash_of_mixed_weighted_read_for_GSTP.h",
+              "DocumentMoniker": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted_read_for_GSTP.h",
+              "RelativeDocumentMoniker": "rucgraph\\graph_hash_of_mixed_weighted_read_for_GSTP.h",
+              "ToolTip": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted_read_for_GSTP.h",
+              "RelativeToolTip": "rucgraph\\graph_hash_of_mixed_weighted_read_for_GSTP.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T10:42:06.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "graph_hash_of_mixed_weighted_binary_operations.h",
+              "DocumentMoniker": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted_binary_operations.h",
+              "RelativeDocumentMoniker": "rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted_binary_operations.h",
+              "ToolTip": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted_binary_operations.h",
+              "RelativeToolTip": "rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted_binary_operations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T10:32:46.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "graph_hash_of_mixed_weighted.h",
+              "DocumentMoniker": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted.h",
+              "RelativeDocumentMoniker": "rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted.h",
+              "ToolTip": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted.h",
+              "RelativeToolTip": "rucgraph\\graph_hash_of_mixed_weighted\\graph_hash_of_mixed_weighted.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T10:32:43.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID.h",
+              "DocumentMoniker": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted\\two_graphs_operations\\graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID.h",
+              "RelativeDocumentMoniker": "rucgraph\\graph_hash_of_mixed_weighted\\two_graphs_operations\\graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID.h",
+              "ToolTip": "E:\\GST-DPBF\\rucgraph\\graph_hash_of_mixed_weighted\\two_graphs_operations\\graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID.h",
+              "RelativeToolTip": "rucgraph\\graph_hash_of_mixed_weighted\\two_graphs_operations\\graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T10:32:35.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "data1.csv",
+              "DocumentMoniker": "E:\\GST-DPBF\\data\\data1.csv",
+              "RelativeDocumentMoniker": "data\\data1.csv",
+              "ToolTip": "E:\\GST-DPBF\\data\\data1.csv",
+              "RelativeToolTip": "data\\data1.csv",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-01T10:28:53.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "data0.csv",
+              "DocumentMoniker": "E:\\GST-DPBF\\data\\data0.csv",
+              "RelativeDocumentMoniker": "data\\data0.csv",
+              "ToolTip": "E:\\GST-DPBF\\data\\data0.csv",
+              "RelativeToolTip": "data\\data0.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-01T09:21:30.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CMake \u6982\u8FF0\u9875",
+              "DocumentMoniker": "CMake \u6982\u8FF0\u9875",
+              "ToolTip": "CMake \u6982\u8FF0\u9875",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T07:19:41.486Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
