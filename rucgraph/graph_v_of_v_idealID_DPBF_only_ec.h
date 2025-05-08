@@ -27,7 +27,7 @@ struct Tree {
  * @param v_generated_group_graph   original group with keywords
  * @param generated_group_vertices   group of keywords
  */
-int test(std::vector<std::vector<std::pair<int, int>>>& v_instance_graph,
+int graph_v_of_v_idealID_DPBF_only_ec(std::vector<std::vector<std::pair<int, int>>>& v_instance_graph,
     std::vector<std::vector<std::pair<int, int>>>& v_generated_group_graph,
     std::unordered_set<int>& generated_group_vertices) {
 

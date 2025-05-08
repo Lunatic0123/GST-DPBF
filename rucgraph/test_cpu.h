@@ -35,7 +35,7 @@ void test_graph_v_of_v_idealID_DPBF_only_ec_cpu() {
         }
         graph_v_of_v_idealID v_generated_group_graph = graph_hash_of_mixed_weighted_to_graph_v_of_v_idealID(
                 generated_group_graph, vertexID_old_to_new);
-        int cost = test(v_instance_graph, v_generated_group_graph, generated_group_vertices);
+        int cost = graph_v_of_v_idealID_DPBF_only_ec(v_instance_graph, v_generated_group_graph, generated_group_vertices);
             cout << cost << endl;
             cout << "------------------------------------------------------------" << endl;
 
